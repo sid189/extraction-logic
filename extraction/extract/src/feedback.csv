@@ -1,0 +1,50 @@
+Document Type,Data Elements,Group Number,Datapoint Order
+Automated Underwriting Feedback - DU Codified Findings,TOTAL MONTHLY INCOME AMOUNT,23,7
+Automated Underwriting Feedback - DU Codified Findings,AUTOMATED UNDERWRITING SYSTEM TYPE,3,5
+Automated Underwriting Feedback - DU Codified Findings,BORROWER SUFFIX NAME,72,5
+Automated Underwriting Feedback - DU Codified Findings,BORROWER LAST NAME,72,2
+Automated Underwriting Feedback - DU Codified Findings,LOAN AMOUNT,12,1
+Automated Underwriting Feedback - DU Codified Findings,BORROWER MIDDLE NAME,72,3
+Automated Underwriting Feedback - DU Codified Findings,LOAN AMORTIZATION PERIOD TYPE,7,2
+Automated Underwriting Feedback - DU Codified Findings,BALLOON INDICATOR,24,1
+Automated Underwriting Feedback - DU Codified Findings,OCCUPANCY TYPE,3,2
+Automated Underwriting Feedback - DU Codified Findings,NUMBER OF UNITS,3,3
+Automated Underwriting Feedback - DU Codified Findings,BORROWER OTHER CREDIT SCORE VALUE 1,72,7
+Automated Underwriting Feedback - DU Codified Findings,BORROWER FULL NAME,72,6
+Automated Underwriting Feedback - DU Codified Findings,BORROWER OTHER CREDIT SCORE VALUE 2,72,8
+Automated Underwriting Feedback - DU Codified Findings,BORROWER OTHER CREDIT SCORE VALUE 3,72,9
+Automated Underwriting Feedback - DU Codified Findings,ATTACHMENT TYPE,4,7
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY ADDRESS ZIPCODE,1,5
+Automated Underwriting Feedback - DU Codified Findings,BORROWER FIRST NAME,72,1
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY ADDRESS STATE,1,4
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY ADDRESS CITY,1,3
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY ADDRESS LINE 1,1,1
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY ADDRESS LINE 2,1,2
+Automated Underwriting Feedback - DU Codified Findings,REFINANCE CASH OUT DETERMINATION TYPE,24,2
+Automated Underwriting Feedback - DU Codified Findings,LOAN PURPOSE TYPE,4,4
+Automated Underwriting Feedback - DU Codified Findings,LOAN AMORTIZATION PERIOD COUNT,7,1
+Automated Underwriting Feedback - DU Codified Findings,MORTGAGE TYPE,3,1
+Automated Underwriting Feedback - DU Codified Findings,INTEREST RATE,12,2
+Automated Underwriting Feedback - DU Codified Findings,DESKTOP UNDERWRITER RECOMMENDATION TYPE,8,1
+Automated Underwriting Feedback - DU Codified Findings,APPRAISAL AMOUNT,4,1
+Automated Underwriting Feedback - DU Codified Findings,SALES PRICE,9,1
+Automated Underwriting Feedback - DU Codified Findings,TOTAL LOAN AMOUNT,9,2
+Automated Underwriting Feedback - DU Codified Findings,TOTAL DEBT EXPENSE RATIO PERCENT,23,6
+Automated Underwriting Feedback - DU Codified Findings,HOUSING EXPENSE RATIO PERCENT,23,5
+Automated Underwriting Feedback - DU Codified Findings,HOME EQUITY COMBINED LTV RATIO PERCENT,23,2
+Automated Underwriting Feedback - DU Codified Findings,COMBINED LTV RATIO PERCENT,23,1
+Automated Underwriting Feedback - DU Codified Findings,LTV RATIO PERCENT,17,1
+Automated Underwriting Feedback - DU Codified Findings,DU VERSION,8,6
+Automated Underwriting Feedback - DU Codified Findings,CASE FILE ID,8,5
+Automated Underwriting Feedback - DU Codified Findings,SUBMISSION NUMBER,8,4
+Automated Underwriting Feedback - DU Codified Findings,BORROWER RESERVES MONTHLY PAYMENT COUNT,25,3
+Automated Underwriting Feedback - DU Codified Findings,SUBMISSION DATE/TIME,8,3
+Automated Underwriting Feedback - DU Codified Findings,TOTAL LIABILITY MONTHLY PAYMENT AMOUNT,23,8
+Automated Underwriting Feedback - DU Codified Findings,PROPERTY TYPE,37,1
+Automated Underwriting Feedback - DU Codified Findings,INVESTOR FEATURE IDENTIFIER,37,2
+Automated Underwriting Feedback - DU Codified Findings,LIEN PRIORITY TYPE,37,3
+Automated Underwriting Feedback - DU Codified Findings,AGENCY CASE LOAN IDENTIFIER,37,4
+Automated Underwriting Feedback - DU Codified Findings,TOTAL SUBORDINATE FINANCING AMOUNT,37,5
+Automated Underwriting Feedback - DU Codified Findings,TOTAL EXPENSES MONTHLY PAYMENT AMOUNT,37,6
+Automated Underwriting Feedback - DU Codified Findings,PROPOSED TOTAL MONTHLY HOUSING EXPENSE,37,7
+Automated Underwriting Feedback - DU Codified Findings,AUTOMATED UNDERWRITING EXPIRATION DATE,37,8
