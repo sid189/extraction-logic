@@ -8,6 +8,7 @@ import { w2Data } from "./w2.js";
 import { paystubData } from "./paystub.js";
 import { appraisalData } from "./appraisal.js";
 import { feedbackData } from "./feedback.js";
+import { armData } from "./arm.js";
 //import { DropdownMultiple, Dropdown } from 'reactjs-dropdown-component';
 
 const options = [
@@ -15,7 +16,7 @@ const options = [
   { value: feedbackData, label: 'DU Codified Findings' },
   { value: disclosureData, label: 'Disclosure' },
   { value: creditData, label: 'Credit Report' },
-  { value: '', label: 'ARM' },
+  { value: armData, label: 'ARM' },
   { value: paystubData, label: 'Pay Stubs' },
   { value: w2Data, label: 'W2' },
 ];
@@ -160,23 +161,9 @@ class App extends Component {
               csvDelimiter=","
               tableClassName="table table-striped table-hover"
             />)}
+
       </React.Fragment>
-      /*<div className="App">
 
-
-        <div className="wrapper">
-          <DropdownMultiple
-            titleHelper="Document Type"
-            title="Select Document Type"
-            list={this.state.doctype}
-            toggleItem={this.toggleItem}
-          />
-
-
-
-        </div>
-
-      </div> */
     );
   }
 }
